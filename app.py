@@ -1,2 +1,3 @@
 
-print("hola mundo")
+print("hola mundo, soy un mal estudiante")
+print("dañe el codigo de mis compañeros")
